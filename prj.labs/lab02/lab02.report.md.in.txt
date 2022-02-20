@@ -3,7 +3,7 @@
 группа: БПМ-19-2
 дата: @time_stemp@
 
-<!-- url: https://mysvn.ru/nastasiaga/gavrilova_a_y/prj.labs/lab02/lab02.cpp -->
+<!-- url: https://github.com/GavrilovaAnastasia/gavrilova_a_y/blob/main/prj.labs/lab02/lab02.cpp -->
 
 ### Задание
 1. В качестве тестового использовать изображение data/cross_0256x0256.png
