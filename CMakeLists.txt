@@ -16,5 +16,6 @@ string(TIMESTAMP time_stemp "%Y-%m-%dT%H:%M:%S")
 
 find_package(OpenCV REQUIRED)
 include_directories(${OpenCV_INCLUDE_DIRS})
+set( OpenCV_FOUND 1 )
 
 add_subdirectory(prj.labs)
